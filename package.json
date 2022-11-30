@@ -1,0 +1,21 @@
+{
+  "name": "@glitchr/nanogallery2",
+  "version": "1.0.14",
+  "description": "nanogallery2 extension",
+  "main": "src/index.js",
+  "repository": {
+    "url": "ssh://git@gitlab.glitchr.dev:public-repository/javascript/nanogallery2.git",
+    "type": "git"
+  },
+  "dependencies": {
+    "hammerjs": "^2.0.7",
+    "imagesloaded": "^4.1.1",
+    "screenfull": "^3.2.0",
+    "shifty": "^1.5.3"
+  },
+  "author": "Marco Meyer <marco.meyer@glitchr.io>",
+  "license": "LGPL-3.0-or-later",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

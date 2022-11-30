@@ -1,6 +1,6 @@
 {
   "name": "@glitchr/nanogallery2",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "nanogallery2 extension",
   "main": "src/index.js",
   "repository": {

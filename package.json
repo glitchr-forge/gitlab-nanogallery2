@@ -11,7 +11,8 @@
     "hammerjs": "^2.0.7",
     "imagesloaded": "^4.1.1",
     "screenfull": "^3.2.0",
-    "shifty": "^1.5.3"
+    "shifty": "^1.5.3",
+    "nanogallery2": "^3.0.5"
   },
   "author": "Marco Meyer <marco.meyer@glitchr.io>",
   "license": "LGPL-3.0-or-later",

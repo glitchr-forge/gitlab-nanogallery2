@@ -4,8 +4,8 @@
   "description": "nanogallery2 extension",
   "main": "src/index.js",
   "repository": {
-    "url": "ssh://git@gitlab.glitchr.dev:public-repository/javascript/nanogallery2.git",
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/glitchr-studio/nanogallery2.git"
   },
   "dependencies": {
     "hammerjs": "^2.0.7",
